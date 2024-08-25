@@ -1,4 +1,5 @@
-Project Title: "Hazardous_Object_Detection"
+# *Project Title: "Hazardous_Object_Detection"*
+S
 Author: Saad Ahmad 
 
 Project Description: HODS (Hazardous Object Detection is real time project which is used to detect the fire, gun, knife and when detection occure draw a bounding box, send notification to desktop and play little beep sound. 
