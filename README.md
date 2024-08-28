@@ -27,5 +27,5 @@ Dont forget to rate "Thanks' this wont charge $.
 
 ## *Images of Algo*
 
-![Hod Image](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/output_images/fire_20240502_185802.jpg'HOD')
+![HOD Image.](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/output_images/fire_20240502_185802.jpg 'High Five')
 
