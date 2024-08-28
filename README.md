@@ -25,7 +25,7 @@ first you have setup conda env to run thre project
 
 Dont forget to rate "Thanks' this wont charge $. 
 
+## *Images of Algo*
 
-
-[link]:(output_images/fire_20240505_125022_678.jpg)
+![Hod Image](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/output_images/fire_20240502_185802.jpg'HOD')
 
