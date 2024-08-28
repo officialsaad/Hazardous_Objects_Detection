@@ -24,3 +24,8 @@ first you have setup conda env to run thre project
 7. Dont forget to rate at github repo.
 
 Dont forget to rate "Thanks' this wont charge $. 
+
+
+
+[link]:(output_images/fire_20240505_125022_678.jpg)
+
