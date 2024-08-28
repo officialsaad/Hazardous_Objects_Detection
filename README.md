@@ -25,16 +25,19 @@ first you have setup conda env to run thre project
 
 Dont forget to rate "Thanks' this wont charge $. 
 
-## *Images of Algo*
+## *Images of Project*
 
+
+### *Fire Detection*
 ![HOD Image.](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/output_images/fire_20240502_185802.jpg 'High Five')
 
-
+### *Dashboad*
 ![HOD Image.](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/WhatsApp%20Image%202024-08-28%20at%2010.55.58%20AM.jpeg 'High Five')
 
+### *Dashboard*
+![HOD Image.](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/WhatsApp%20Image%202024-08-28%20at%2010.56.49%20AM.jpeg 'High Five')
 
-![HOD Image.](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/output_images/fire_20240502_185802.jpg 'High Five')
-
-![HOD Image.](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/output_images/fire_20240502_185802.jpg 'High Five')
+### *Knife Detection*
+![HOD Image.](https://github.com/officialsaad/Hazardous_Objects_Detection/blob/main/WhatsApp%20Image%202024-08-28%20at%2010.57.07%20AM.jpeg 'High Five')
 
 
